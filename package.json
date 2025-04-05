@@ -1,0 +1,38 @@
+{
+  "name": "demo-app-jest-testing",
+  "version": "1.0.0",
+  "description": "demo on writing test for expressjs and mongoose apps",
+  "main": "index.js",
+  "author": "Samuel Wirth",
+  "license": "MIT",
+
+  "scripts": {
+    "test": "jest"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+
+  "keywords": [
+    "testing",
+    "expressjs",
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "jest",
+    "supertest"
+  ],
+
+  "bugs": {
+    "url": ""
+  },
+
+  "dependencies": {
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
